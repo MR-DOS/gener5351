@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name OLED_demoboard-rescue)(type Legacy)(uri ${KIPRJMOD}/OLED_demoboard-rescue.lib)(options "")(descr ""))
+  (lib (name kicad_petr_inherited)(type Legacy)(uri /home/msboss/kicad/lib_petr_inherited/kicad_petr_inherited.lib)(options "")(descr ""))
+  (lib (name petr_kicad)(type Legacy)(uri /home/msboss/kicad/libtest/petr_kicad.lib)(options "")(descr ""))
+)
